@@ -9,3 +9,16 @@ body {
 nav img {
     width: 7%;
 }
+nav{
+    background: #00ffff7a;
+}
+#quienes-somos i {
+    background-color: rgb(64, 210, 224);
+    display: block;
+    margin: 0%;
+}
+
+footer{
+    background-color: aqua;
+    display: inline-block;
+}
